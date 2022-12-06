@@ -1,1 +1,9 @@
 Link para download e instruções de instalação do Git: https://www.webdevdrops.com/git-no-windows-github/
+
+Comandos:
+git clone > clonar repositório
+cd > verificar nome do diretório
+git status > exibe as condições do diretório de trabalho e da área de staging
+git add . > adiciona uma alteração no diretório ativo à área de staging.
+git commit -m >  salva as alterações no repositório local
+git push origin main > envia todas as alterações no repositório local para a Origem (nuvem, GitHub).
